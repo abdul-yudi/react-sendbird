@@ -5,8 +5,7 @@ Design:
 - Sendbird UI Kit
 
 How to try:
-**npm install** to install dependencies
 
-**npm start** to run app
-
-3. open two different browser to chat each other
+- **npm install** to install dependencies
+- **npm start** to run app
+- open two different browser to chat each other
