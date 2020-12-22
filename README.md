@@ -1,4 +1,4 @@
-##React Chat with Sendbird
+### React Chat with Sendbird
 
 Design:
 - Material UI
