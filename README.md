@@ -1,5 +1,11 @@
+React Chat with Sendbird
+
+Design:
+- Material UI
+- Sendbird UI Kit
+
 ## 1. npm install
-run npm install to install dependencies
+npm install to install dependencies
 
 ## 2. npm start
-run npm start to run app
+npm start to run app
